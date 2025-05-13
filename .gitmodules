@@ -1,3 +1,6 @@
 [submodule "tcdg-1-2-int"]
 	path = tcdg-1-2-int
 	url = https://github.com/rileylorgelly/tcdg-1-2-int.git
+[submodule "tcdg-1-1-int"]
+	path = tcdg-1-1-int
+	url = https://github.com/rileylorgelly/tcdg-1-1-int.git
